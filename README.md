@@ -10,5 +10,13 @@ ImageTransform.cpp is contains the followwing functions:
 - watermark
 
 # Results
-1. illinify
-![](D:\GitHub\00_ImageTransformation\illinify.png)
+1. illinify<br/><br/>
+<img src = "Result/illinify.PNG" width = "640" height = "480">
+<br/>
+
+2. spotlight<br/><br/>
+<img src = "Result/spotlight.PNG" width = "640" height = "480">
+<br/>
+
+3. watermark<br/><br/>
+<img src = "Result/watermark.PNG" width = "640" height = "480">
