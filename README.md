@@ -8,3 +8,7 @@ ImageTransform.cpp is contains the followwing functions:
 - illinify
 - spotlight
 - watermark
+
+# Results
+1. illinify
+![](D:\GitHub\00_ImageTransformation\illinify.png)
