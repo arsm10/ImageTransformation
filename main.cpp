@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * A simple C++ program that manipulates an image.
- *
+ *ljdkjkjfujoilakjdkjfkdjijalkdjfkjdiadfjlj
  * @author University of Illinois CS 225 Course Staff
  * @author Updated by University of Illinois CS 400 Course Staff
 **/
